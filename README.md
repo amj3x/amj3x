@@ -3,7 +3,8 @@
 **I'm always open to opportunities, find me at:**
 
 - **Sherlock**: [j3x](https://audits.sherlock.xyz/watson/j3x)
--    **X**  : [4mj3x](https://x.com/4mj3x)
+-    **X**    : [4mj3x](https://x.com/4mj3x)
+- **Discord** : @4mj3x
 - **Telegram**: @amj3x
 
 ## Summary
