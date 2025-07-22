@@ -23,11 +23,11 @@ I'm an ex-web2 security researcher who turned full-time into web3 since february
     </tr>
   </thead>
   <tbody>
-    <tr><td>May 2025</td><td>Alchemix</td><td>Cantina</td><td>8 High, 3 Medium</td><td>671 USDC</td><td>26th</td></tr>
+    <tr><td>May 2025</td><td>Alchemix</td><td>Cantina</td><td>8 High, 3 Medium</td><td>671 USDC</td><td>22th</td></tr>
     <tr><td>May 2025</td><td>Usual ETH0</td><td>Sherlock</td><td>1 Medium</td><td>3,910 USDC</td><td>🥇 1st</td></tr>
     <tr><td>April 2025</td><td>Metropolis</td><td>Cantina</td><td>4 Medium</td><td>38.78 USDC</td><td>44th</td></tr>
     <tr><td>March 2025</td><td>Crestal Network</td><td>Sherlock</td><td>1 High, 3 Medium</td><td>921.20 USDC</td><td>🥈 2nd</td></tr>
-    <tr><td>March 2025</td><td>badger-ebtc-bsm</td><td>Cantina</td><td>1 High, 2 Medium</td><td>944.01 USDC</td><td>7th</td></tr>
+    <tr><td>March 2025</td><td>badger-ebtc-bsm</td><td>Cantina</td><td>1 High, 2 Medium</td><td>944.01 USDC</td><td>5th</td></tr>
   </tbody>
 </table>
 
