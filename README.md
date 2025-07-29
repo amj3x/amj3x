@@ -5,7 +5,6 @@
 - **Sherlock**: [j3x](https://audits.sherlock.xyz/watson/j3x)
 -    **X**    : [4mj3x](https://x.com/4mj3x)
 - **Discord** : @4mj3x
-- **Telegram**: @amj3x
 
 ## Summary
 I'm an ex-web2 security researcher who turned full-time into web3 since february 2025. I had some experience in web3 before by doing bug bounties, but since the full-time transition I started participating in audit contests.
