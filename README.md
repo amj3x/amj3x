@@ -31,6 +31,22 @@ I'm an ex-web2 security researcher who turned full-time into web3 since february
   </tbody>
 </table>
 
+<h3>Private Competitions 🏆:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Contest / Project</th>
+      <th>Platform</th>
+      <th>Findings</th>
+      <th>Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>August 2025</td><td>dHedge</td><td>Sherlock</td><td>1 Med</td><td>7th</td></td></tr>
+  </tbody>
+</table>
+
 <h3>Bugs Found in Web3 Bounties:</h3>
 <table>
   <thead>
