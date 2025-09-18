@@ -22,6 +22,7 @@ I'm an ex-web2 security researcher who turned full-time into web3 since february
     </tr>
   </thead>
   <tbody>
+    <tr><td>July 2025</td><td>Folks Finance (Algorand)</td><td>Immunefi</td><td>2 Low</td><td>$4,413</td><td>🥈 2nd</td></tr>
     <tr><td>July 2025</td><td>DeBank</td><td>Sherlock</td><td>2 Low</td><td>$1,016</td><td>🥈 2nd</td></tr>
     <tr><td>May 2025</td><td>Alchemix</td><td>Cantina</td><td>8 High, 3 Medium</td><td>$671</td><td>22th</td></tr>
     <tr><td>May 2025</td><td>Usual ETH0</td><td>Sherlock</td><td>1 Medium</td><td>$3,910</td><td>🥇 1st</td></tr>
