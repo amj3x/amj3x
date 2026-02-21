@@ -1,6 +1,6 @@
 # j3x' Audit Portfolio 💼
 
-Find me at:**
+**Find me at:**
 
 - **Sherlock**: [j3x](https://audits.sherlock.xyz/watson/j3x)
 -    **X**    : [4mj3x](https://x.com/4mj3x)
