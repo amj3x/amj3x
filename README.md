@@ -65,3 +65,17 @@ I'm an ex-web2 security researcher who turned full-time into web3 since february
     <tr><td>Immunefi</td><td>Logic Bug in view function</td><td>Low</td><td>May 2024</td><td>Won't Fix</td></tr>
   </tbody>
 </table>
+
+<h3>Private Audits:</h3>
+<table>
+  <thead>
+    <tr>
+      <th>Protocol</th>
+      <th>Firm</th>
+      <th>Report</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Rainbow</td><td>OpenZeppelin</td><td>Private</td>/tr>
+  </tbody>
+</table>
