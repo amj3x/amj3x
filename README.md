@@ -7,7 +7,7 @@
 - **Discord** : @4mj3x
 
 ## Summary
-I'm an ex-web2 security researcher who turned full-time into web3 since february 2025. I started my web3 journey in 2023 doing bug bounties and developing small projects, but since the full-time transition I started participating in audit contests.
+I'm an ex-web2 security researcher who turned full-time blockchain security researcher. I started my web3 journey in 2023 doing bug bounties, playing CTF's, and developing small projects, but since the full-time transition I started participating in audit contests.
 
 <h3>Public Contests 🏆:</h3>
 <table>
