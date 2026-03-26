@@ -76,6 +76,6 @@ I'm an ex-web2 security researcher who turned full-time into web3 since february
     </tr>
   </thead>
   <tbody>
-    <tr><td>Rainbow</td><td>OpenZeppelin</td><td>Private</td>/tr>
+    <tr><td>Rainbow</td><td>OpenZeppelin</td><td>Private</td></tr>
   </tbody>
 </table>
