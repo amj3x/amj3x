@@ -72,7 +72,7 @@ I'm an ex-web2 security researcher turned full-time blockchain security research
 <table>
   <thead>
     <tr>
-      <th>Protocol</th>
+      <th>Project</th>
       <th>Firm</th>
       <th>Report</th>
     </tr>
