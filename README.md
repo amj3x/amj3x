@@ -63,7 +63,7 @@ I'm an ex-web2 security researcher turned full-time blockchain security research
     <tr><td>HackerOne</td><td>Integer Overflow</td><td>High</td><td>May 2024</td><td>Paid</td></tr>
     <tr><td>Immunefi</td><td>Integer Overflow</td><td>Medium</td><td>May 2024</td><td>Duplicate</td></tr>
     <tr><td>Immunefi</td><td>Logic Bug in view function</td><td>Low</td><td>May 2024</td><td>Won't Fix</td></tr>
-    <tr><td>Immunefi</td><td>Logic Bug -> Moderate Loss of Funds</td><td>Medium</td><td>May 2026</td><td>Paid</td></tr>
+    <tr><td>Immunefi</td><td>Logic Bug -> Moderate Loss of Funds</td><td>Medium</td><td>June 2026</td><td>Paid</td></tr>
     <tr><td>Immunefi</td><td>High Severity DoS</td><td>High</td><td>September 2026</td><td>Confirmed</td></tr>
   </tbody>
 </table>
