@@ -24,9 +24,9 @@ I'm an ex-web2 security researcher turned full-time blockchain security research
   <tbody>
     <tr><td>July 2025</td><td>Folks Finance (Algorand)</td><td>Immunefi</td><td>2 Low</td><td>$4,413</td><td>🥈 2nd</td></tr>
     <tr><td>July 2025</td><td>DeBank</td><td>Sherlock</td><td>2 Low</td><td>$1,016</td><td>🥈 2nd</td></tr>
-    <tr><td>May 2025</td><td>Alchemix</td><td>Cantina</td><td>8 High, 3 Medium</td><td>$671</td><td>22th</td></tr>
+    <tr><td>May 2025</td><td>Alchemix</td><td>Cantina</td><td>8 High, 3 Medium</td><td>$671</td><td> - </td></tr>
     <tr><td>May 2025</td><td>Usual ETH0</td><td>Sherlock</td><td>1 Medium</td><td>$3,910</td><td>🥇 1st</td></tr>
-    <tr><td>April 2025</td><td>Metropolis</td><td>Cantina</td><td>4 Medium</td><td>$38</td><td>42th</td></tr>
+    <tr><td>April 2025</td><td>Metropolis</td><td>Cantina</td><td>4 Medium</td><td> - </td><td> - </td></tr>
     <tr><td>March 2025</td><td>Crestal Network</td><td>Sherlock</td><td>1 High, 3 Medium</td><td>$921</td><td>🥈 2nd</td></tr>
     <tr><td>March 2025</td><td>badger-ebtc-bsm</td><td>Cantina</td><td>1 High, 2 Medium</td><td>$944</td><td>5th</td></tr>
   </tbody>
@@ -63,6 +63,8 @@ I'm an ex-web2 security researcher turned full-time blockchain security research
     <tr><td>HackerOne</td><td>Integer Overflow</td><td>High</td><td>May 2024</td><td>Paid</td></tr>
     <tr><td>Immunefi</td><td>Integer Overflow</td><td>Medium</td><td>May 2024</td><td>Duplicate</td></tr>
     <tr><td>Immunefi</td><td>Logic Bug in view function</td><td>Low</td><td>May 2024</td><td>Won't Fix</td></tr>
+    <tr><td>Immunefi</td><td>Logic Bug -> Moderate Loss of Funds</td><td>Medium</td><td>May 2026</td><td>Paid</td></tr>
+    <tr><td>Immunefi</td><td>High Severity DoS</td><td>High</td><td>September 2026</td><td>Confirmed</td></tr>
   </tbody>
 </table>
 
@@ -77,5 +79,6 @@ I'm an ex-web2 security researcher turned full-time blockchain security research
   </thead>
   <tbody>
     <tr><td>Rainbow</td><td>OpenZeppelin</td><td>Private</td></tr>
+    <tr><td>EIP-7702 Plugin Regsitry</td><td>OpenZeppelin</td><td>Private</td></tr>
   </tbody>
 </table>
